@@ -226,3 +226,4 @@ let conv2 = val2.join(" ");
 console.log(conv2);
 
 let b = "maxwell my name is sahil";
+let j - "rana"
