@@ -218,3 +218,9 @@ let val = arr.map((elem) => {
 let conv = val.join(" ");
 console.log(conv);
 
+let arr2 = str.split(" ");
+let val2 = arr2.map((elem) => {
+  return elem.replace(elem[0], elem[0].toUpperCase());
+});
+let conv2 = val2.join(" ");
+console.log(conv2);
