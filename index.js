@@ -212,5 +212,13 @@ console.log(rj);
 //hola my name is sahil
 let hi = "hola my name is sahil";
 
+//////////// 
+let map = hi.split(" ");
+
+let val = map.map((elem) => {
+  return elem.replace(elem[0], elem[0].toUpperCase());
+});
+let conv = val.join(" ");
+console.log(conv);
 
 
