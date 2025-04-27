@@ -227,7 +227,12 @@ console.log(conv2);
 
 let b = "maxwell my name is sahil";
 let arr3 = b.split(" ");
-let val3 = arr3.map((elem) => {
+const rtr = "apache"
+
+let arrrtytt = ["man city"]
+              
+let arrrtyt = ["man city"]
+  let val3 = arr3.map((elem) => {
   return elem.replace(elem[0], elem[0].toUpperCase());
 });
 let conv3 = val3.join(" ");
