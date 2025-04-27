@@ -210,32 +210,7 @@ let rj = vouvals("SAHIL DOGRA IS BARCA PLAYER");
 console.log(rj);
 
 //hola my name is sahil
-let str = "hola my name is sahil";
-let arr = str.split(" ");
-let val = arr.map((elem) => {
-  return elem.replace(elem[0], elem[0].toUpperCase());
-});
-let conv = val.join(" ");
-console.log(conv);
 
-let arr2 = str.split(" ");
-let val2 = arr2.map((elem) => {
-  return elem.replace(elem[0], elem[0].toUpperCase());
-});
-let conv2 = val2.join(" ");
-console.log(conv2);
 
-let b = "maxwell my name is sahil";
-let arr3 = b.split(" ");
-const rtr = "apache"
-
-let arrrtytt = ["man city"]
-              
-let arrrtyt = ["man city"]
-  let val3 = arr3.map((elem) => {
-  return elem.replace(elem[0], elem[0].toUpperCase());
-});
-let conv3 = val3.join(" ");
-console.log(conv3);
 
 
