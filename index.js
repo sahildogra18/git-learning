@@ -224,3 +224,5 @@ let val2 = arr2.map((elem) => {
 });
 let conv2 = val2.join(" ");
 console.log(conv2);
+
+//kon tha tumko lene aaya konsi gaadi thi tu ds ki c paaya tere suit ya sari thi
